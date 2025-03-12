@@ -2,7 +2,7 @@
 
 A Python GUI application to identify and connect to the fastest Mullvad VPN servers. Retrieve server listings, perform latency and speed tests, and connect to optimal servers with a single click.
 
-![Mullvad Server Finder Screenshot](mullvad_icon.icns)
+![Mullvad Server Finder Screenshot](Screenshot.png)
 
 ## Key Features
 
